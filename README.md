@@ -1,7 +1,7 @@
 # Professional Tools: Treestimator (beta)
 Professional tools developed for practical use
 
-# Treestimator: Tree Planting Program Simulator 🌱
+# Treestimator: Tree Population Simulator 🌱
 Treestimator is a web-based simulation tool designed to help project leaders and environmental planners model tree populations over time. By simulating seedling survival, replacement planting (beating up), and thinning strategies, the tool provides a clear, year-by-year analysis of project outcomes. This enables more effective and data-driven restoration planning.
 
 # 🚀 Key Features
@@ -46,7 +46,7 @@ Chart.js: A powerful JavaScript library used for creating the interactive and vi
 
 jsPDF & jsPDF-AutoTable: Libraries for generating the PDF report from the simulation results.
 
-#📝 Get Started
+# 📝 Get Started
 To use the Treestimator locally, simply download or clone this repository and open the index.html file in your web browser. There are no server-side dependencies.
 
 Bash
@@ -60,12 +60,12 @@ cd treestimator
 # - Open index.html in your browser
 (You can just double-click the file)
 
-#👩‍💻 Developed By
+# 👩‍💻 Developed By
 Lalisa Duguma, PhD. Global Evergreening Alliance (GEA)
 
-This project was developed to provide a practical tool for environmental and forestry professionals to better plan and manage their tree planting initiatives.
+This project was developed to provide a practical tool for environmental and forestry professionals to better plan and manage their tree-based restoration initiatives.
 
-#📜 License
+# 📜 License
 © 2025 Lalisa Duguma, Global Evergreening Alliance (GEA). All rights reserved.
 
 This tool is provided for estimation purposes only. The developer is not liable for any damages resulting from its use. Always consult with a qualified professional for critical decisions.
